@@ -7,10 +7,14 @@ For this weeks module, we conducted analysis on a set of weather data for a surf
 ## Results 
 ### What are some key differences we observed in weather data between June and December?
 Below is a screenshot of the temperature results from June:
+
 <img width="139" alt="Screen Shot 2022-06-15 at 2 25 50 PM" src="https://user-images.githubusercontent.com/103055666/173905430-b42491da-42a2-43b4-b10d-ead475951837.png">
 
+
 Below is a screenshot of the temperature results from December:
+
 <img width="146" alt="Screen Shot 2022-06-15 at 2 26 01 PM" src="https://user-images.githubusercontent.com/103055666/173905408-3697bfff-0e8f-4b8d-9139-80c583b6d642.png">
+
 
 * The mean temperature for June was 3 degrees higher than the one in December. This is not a very big difference in temperature, and in both instances the temperature is high enough to facilitate good surfing conditions, i.e. warm/high temperatures. 
 * The standard deviation was slightly higher in December than it was in June. This means that temperatures in June are more consistent than in December. 
